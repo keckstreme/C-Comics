@@ -1,0 +1,1 @@
+Evrende "amaç nedir" sorusunun cevabına ilk ulaşmış bireyler.

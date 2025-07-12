@@ -1,1 +1,5 @@
-{}
+{
+  "focusNewTab": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
+}

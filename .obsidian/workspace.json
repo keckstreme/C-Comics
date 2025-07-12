@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unnamed Characters.md",
+                "file": "Pages/President Good.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Unnamed Characters"
+              "title": "President Good"
             }
           }
         ]
@@ -184,29 +194,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7055e7dfbaae3ad",
+  "active": "d7007302e6b6b3e5",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Unnamed Characters.md",
-    "Home.md",
+    "Pages/GOOD (Religion).md",
+    "Pages/President Good.md",
+    "Pages/Executives of Evil Corp..md",
+    "Pages/Balantor (Organisation).md",
     "Pages/Universal Symmetry Law (USL).md",
+    "Pages/Emperor Evil.md",
+    "Pages/Cash.md",
+    "Pages/Evil Corporation.md",
+    "Pages/Evil (Religion).md",
+    "Pages/Ancient Mother.md",
+    "Pages/They Who Found The Answer.md",
+    "Unnamed Characters.md",
+    "Unknown.md",
+    "README.md",
+    "Pages/(Cash's Daughter).md",
+    "Welcome.md",
+    "Home.md",
     "Pages/Superpowers Association (SA).md",
     "Pages/Rich Man.md",
     "Pages/Refrigerator Man.md",
     "Pages/Prophecies of EVIL.md",
     "Pages/Music Man.md",
     "Pages/Good Corporation.md",
-    "Pages/GOOD (Religion).md",
-    "Pages/Evil Corporation.md",
-    "Pages/EVIL (Religion).md",
-    "Pages/Cash.md",
-    "Pages/Balantor (Organisation).md",
-    "Pages/Ancient Mother.md",
     "Pages/(Rouge AI).md",
     "Pages/(Cash's Mother).md",
     "Pages/(Cash's Father).md",
-    "Pages/(Cash's Father's Workplace).md",
-    "Pages/(Cash's Father's Friend a.k.a Cash's Employer).md",
     "Pages"
   ]
 }
