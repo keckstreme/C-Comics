@@ -1,0 +1,3 @@
+[[Evil Corporation|Evil Corp]] tarafından kuruluş tarihinden 47.7789438892000918890095555444459002091... saniye sonra kurulmuştur. Kuruluş amacı evrenin simetrisini korumak için oluşturulmuş [[Universal Symmetry Law (USL)]]'yi çiğnememektir.
+
+Good Corp [[Evil Corporation|Evil Corp]]'un inandıklarının zıttına inanan ve zıt amaçlar için çalışan bir örgüttür. [[Evil Corporation|Evil Corp]]'un etik çizgisinin muallak olduğu gerçeği gibi haklı ya da haksız olmaları sorgulayan bireyin insiyatifine kalmıştır.

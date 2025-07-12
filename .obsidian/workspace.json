@@ -6,6 +6,7 @@
       {
         "id": "3d07f68073d00f1d",
         "type": "tabs",
+        "dimension": 50.317258883248726,
         "children": [
           {
             "id": "d7055e7dfbaae3ad",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/President Good.md",
+                "file": "Pages/Evil/Evil (Religion).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +29,49 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "President Good"
+              "title": "Evil (Religion)"
+            }
+          },
+          {
+            "id": "ab285be21bdcf3cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/Evil/Evil (Religion).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Evil (Religion)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b24b52179dedd0b0",
         "type": "tabs",
+        "dimension": 49.68274111675127,
         "children": [
           {
             "id": "e832c8422dbd3496",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -194,34 +223,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7007302e6b6b3e5",
+  "active": "e832c8422dbd3496",
   "lastOpenFiles": [
-    "Pages/GOOD (Religion).md",
-    "Pages/President Good.md",
-    "Pages/Executives of Evil Corp..md",
+    "Pages/Evil/Evil (Religion).md",
+    "Pages/Evil/Evil Corporation.md",
+    "Pages/Evil",
+    "Pages/Good",
+    "Pages/Cash/(Cash's Daughter).md",
+    "Pages/Cash",
+    "Pages/Rich Man.md",
+    "Pages/Good/Good (Religion).md",
+    "Pages/Cash/Cash.md",
+    "Pages/Good/President Good.md",
+    "Evil.md",
+    "Balantorius.md",
+    "Pages/Superpowers Association (SA).md",
+    "Pages/Refrigerator Man.md",
+    "Pages/Evil/Prophecies of EVIL.md",
+    "Pages/Music Man.md",
+    "Pages/Good/Good Corporation.md",
+    "Pages/Evil/Executives of Evil Corp..md",
     "Pages/Balantor (Organisation).md",
     "Pages/Universal Symmetry Law (USL).md",
-    "Pages/Emperor Evil.md",
-    "Pages/Cash.md",
-    "Pages/Evil Corporation.md",
-    "Pages/Evil (Religion).md",
+    "Pages/Evil/Emperor Evil.md",
     "Pages/Ancient Mother.md",
     "Pages/They Who Found The Answer.md",
     "Unnamed Characters.md",
     "Unknown.md",
     "README.md",
-    "Pages/(Cash's Daughter).md",
     "Welcome.md",
     "Home.md",
-    "Pages/Superpowers Association (SA).md",
-    "Pages/Rich Man.md",
-    "Pages/Refrigerator Man.md",
-    "Pages/Prophecies of EVIL.md",
-    "Pages/Music Man.md",
-    "Pages/Good Corporation.md",
-    "Pages/(Rouge AI).md",
-    "Pages/(Cash's Mother).md",
-    "Pages/(Cash's Father).md",
     "Pages"
   ]
 }

@@ -1,12 +1,34 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Pages/Cash  ",
+      "color": {
+        "a": 1,
+        "rgb": 65520
+      }
+    },
+    {
+      "query": "path:Pages/Evil  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Pages/Good  ",
+      "color": {
+        "a": 1,
+        "rgb": 45860
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,

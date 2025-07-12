@@ -1,4 +1,4 @@
-Evil [[Evil Corporation]] tarafından oluşturulan evrenin en eski ve [[GOOD (Religion)|Good]]'dan sonraki en büyük dinidir.
+Evil [[Evil Corporation]] tarafından oluşturulan evrenin en eski ve [[Good (Religion)|Good]]'dan sonraki en büyük dinidir.
 ## 1. İnanç
 Evil, evrende "amaç nedir" sorusunun cevabına ilk ulaşmış [[They Who Found The Answer|bireyler]] tarafından bu cevabı yayma amacıyla kurulmuştur. Evil inananlarına göre yaşamın nihai hedefi maksimum entropi. Bu bütün canlılar için ölüm anlamına gelmektedir. Bu amaca hizmet için ellerinden geleni yapmaktadırlar. İsminin önerdiğinin aksine Evil iyi ya da kötü olarak değerlendirilememektedir.
 ## 2. Peygamberler
