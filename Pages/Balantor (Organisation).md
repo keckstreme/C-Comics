@@ -1,0 +1,1 @@
+Balantor Andromeda galaksisinde [[Universal Symmetry Law (USL)]] kuralları doğrultusunda ticari amaçlarla kurulmuş [[Universal Symmetry Law (USL)|USL]] kolluk kuvvetidir.

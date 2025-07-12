@@ -1,0 +1,1 @@
+Evrenin ilk yıllarında eski büyükler tarafından yazılmış hukuksal bir kanundur. [Fizikteki simetri yasaları](https://en.wikipedia.org/wiki/Symmetry_\(physics\)) ile karıştırılmamalıdır.

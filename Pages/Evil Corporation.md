@@ -1,0 +1,6 @@
+Evrenin erken zamanlarında yaşlı [Cash](https://sites.google.com/d/1dwCiyYq4yz9ZfhCk_k5DD4BGApvPB3Hf/p/1y43XhXSWBf_Hh2GxVIOTou--Llvq_u6f/edit) tarafından kurulan bu şirket 14 milyar yıl boyunca "hizmet" vermiştir. Bazılarınca şeytani olan bu oluşum fikirleri onlara mantıklı gelen kimseler için şeytani değildir ve onların da savunduğu dini inanca hizmet eder.
+
+Genç [Cash](https://sites.google.com/d/1dwCiyYq4yz9ZfhCk_k5DD4BGApvPB3Hf/p/1y43XhXSWBf_Hh2GxVIOTou--Llvq_u6f/edit) 2053 yılında bu oluşumu keşfedip bu oluşumla mücadele etmiştir. Fakat 34520 yıl savaştıktan sonra [Cash](https://sites.google.com/d/1dwCiyYq4yz9ZfhCk_k5DD4BGApvPB3Hf/p/1y43XhXSWBf_Hh2GxVIOTou--Llvq_u6f/edit) yeterli bilgeliğe ulaşıp bu dine katılmış ve 200 milyon yıl yönetmek üzere Evil Corp'un başkanlık koltuğuna oturmuştur. 200 milyon yılın ardından [Cash](https://sites.google.com/d/1dwCiyYq4yz9ZfhCk_k5DD4BGApvPB3Hf/p/1y43XhXSWBf_Hh2GxVIOTou--Llvq_u6f/edit) bu dini inançtan ayrılmış ve Evil Corp'u ve faaliyetlerini sonlandırmıştır.
+## Bağlantılı Örgütler
+
+[Good Corp](https://sites.google.com/d/1dwCiyYq4yz9ZfhCk_k5DD4BGApvPB3Hf/p/1kEup_9kCDa4TCfAA9SDd1DGlK4SENaZp/edit) founded by [Cash](https://sites.google.com/d/1dwCiyYq4yz9ZfhCk_k5DD4BGApvPB3Hf/p/1y43XhXSWBf_Hh2GxVIOTou--Llvq_u6f/edit)

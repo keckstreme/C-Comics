@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "c9f8460201f34286",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d07f68073d00f1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7055e7dfbaae3ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unnamed Characters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unnamed Characters"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b24b52179dedd0b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e832c8422dbd3496",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "581c1b11ab50d486",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8469639b9839b26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7007302e6b6b3e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c130c96c9f8b5bf8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6dad224eafe8e7a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e31e011d367c35ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "c958a068f2678b6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e145585aa97a915",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unnamed Characters.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Unnamed Characters"
+            }
+          },
+          {
+            "id": "f27580ed66e60f14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unnamed Characters.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Unnamed Characters"
+            }
+          },
+          {
+            "id": "0f076bb88ab4fe25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9a3ce46aaeccee10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unnamed Characters.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Unnamed Characters"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d7055e7dfbaae3ad",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Unnamed Characters.md",
+    "Home.md",
+    "Pages/Universal Symmetry Law (USL).md",
+    "Pages/Superpowers Association (SA).md",
+    "Pages/Rich Man.md",
+    "Pages/Refrigerator Man.md",
+    "Pages/Prophecies of EVIL.md",
+    "Pages/Music Man.md",
+    "Pages/Good Corporation.md",
+    "Pages/GOOD (Religion).md",
+    "Pages/Evil Corporation.md",
+    "Pages/EVIL (Religion).md",
+    "Pages/Cash.md",
+    "Pages/Balantor (Organisation).md",
+    "Pages/Ancient Mother.md",
+    "Pages/(Rouge AI).md",
+    "Pages/(Cash's Mother).md",
+    "Pages/(Cash's Father).md",
+    "Pages/(Cash's Father's Workplace).md",
+    "Pages/(Cash's Father's Friend a.k.a Cash's Employer).md",
+    "Pages"
+  ]
+}

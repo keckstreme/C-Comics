@@ -1,0 +1,1 @@
+M.Ö. 620000 yılında Dünya’da mezopotamyada doğdu.
